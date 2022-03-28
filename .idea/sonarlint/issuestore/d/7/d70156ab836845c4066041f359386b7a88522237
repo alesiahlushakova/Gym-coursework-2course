@@ -1,0 +1,9 @@
+
+”squid:S1319%"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(§¨¹ùÿÿÿÿ8Êƒ³¶»-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(­‚½ùùÿÿÿÿ8Êƒ³¶»-
+ysquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(±÷Ë×øÿÿÿÿ8Êƒ³¶»-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹‚¾ùÿÿÿÿ8æª…½-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»ï®áûÿÿÿÿ8‹Õª…½-
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(óö¦ú8µ¨®…½-
+ysquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(é¡ªçøÿÿÿÿ8Êƒ³¶»-
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(ÉŠÎ‚8¾Ï®…½-

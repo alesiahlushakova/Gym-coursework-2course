@@ -1,0 +1,4 @@
+
+esquid:S20958"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ς΅¥Ή8Ιÿ΅»-
+psquid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ήμ’ί8†Έ»-
+‘squid:S13196"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(ήμ’ί8έπϋ΅»-

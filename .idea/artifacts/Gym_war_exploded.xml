@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gym:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gym_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Gym/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Gym" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+          <element id="library" level="project" name="protobuf-java-3.6.1" />
+          <element id="library" level="project" name="log4j-api-2.7" />
+          <element id="library" level="project" name="log4j-core-2.7" />
+          <element id="library" level="project" name="org.apache.servicemix.bundles.commons-codec-1.2_5" />
+          <element id="library" level="project" name="log4j-api-2.7 (2)" />
+          <element id="library" level="project" name="log4j-core-2.7 (2)" />
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+
+—squid:S1319·"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(øÍåµøÿÿÿÿ8óÀÖÚ½-
+¢squid:S1319Ç"~The type of the "daysAndExercises" object should be an interface such as "SortedMap" rather than the implementation "TreeMap".(Âù¹şşÿÿÿÿ8óÀÖÚ½-
+‘squid:S1319u"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(¨÷Œâ8óÀÖÚ½-
+squid:S1319ß"~The type of the "daysAndExercises" object should be an interface such as "SortedMap" rather than the implementation "TreeMap".(†£‰–8óÀÖÚ½-
+—squid:S1319Ç"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(Âù¹şşÿÿÿÿ8óÀÖÚ½-

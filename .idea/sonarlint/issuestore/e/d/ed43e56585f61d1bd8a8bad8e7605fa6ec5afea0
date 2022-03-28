@@ -1,0 +1,11 @@
+
+Ksquid:S1989"-Add a "try/catch" block for "processRequest".(‘ŸÑ8Ôıİ„½-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’İ®ü8„İÛ„½-
+Ksquid:S1989"-Add a "try/catch" block for "processRequest".(‘ŸÑ8Ôıİ„½-
+]squid:S1161":Add the "@Override" annotation above this method signature(šŒêóûÿÿÿÿ8 ·ëñº-
+Rsquid:S1481N"/Remove this unused "messageKey" local variable.(¦ ßòÿÿÿÿÿ8ÌïÚ„½-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ŸÆæñûÿÿÿÿ8„İÛ„½-
+isquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ÿê®8„İÛ„½-
+asquid:S1854N">Remove this useless assignment to local variable "messageKey".(¦ ßòÿÿÿÿÿ8ÌïÚ„½-
+Xsquid:S1161":Add the "@Override" annotation above this method signature(ùŠœ¬8 ·ëñº-
+isquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(Ó‚Úù8ÌïÚ„½-

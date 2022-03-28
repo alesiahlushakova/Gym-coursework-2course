@@ -1,0 +1,5 @@
+
+squid:S1488V"aImmediately return this expression instead of assigning it to the temporary variable "exercises".(Éâ§€8êãÇØ½-
+¢squid:S1319Ù"~The type of the "daysAndExercises" object should be an interface such as "SortedMap" rather than the implementation "TreeMap".(ôìì§ùÿÿÿÿ8êãÇØ½-
+¢squid:S1319µ"~The type of the "daysAndExercises" object should be an interface such as "SortedMap" rather than the implementation "TreeMap".(ÿÑ†ôÿÿÿÿÿ8êãÇØ½-
+Qsquid:S1068"3Remove this unused "INCREMENT_INDEX" private field.(¦İè¹8ÓêŞØ½-

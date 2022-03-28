@@ -1,0 +1,4 @@
+
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ïö„×ıÿÿÿÿ8æÈ€·»-
+isquid:S2142E"FEither re-interrupt this method or rethrow the "InterruptedException".(ß•Äøÿÿÿÿ8æÈ€·»-
+Ysquid:S2274A";Remove this call to "await" or move it into a "while" loop.(ìáÕš8™Ô·»-

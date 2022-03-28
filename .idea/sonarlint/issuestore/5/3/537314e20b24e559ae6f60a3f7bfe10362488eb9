@@ -1,0 +1,6 @@
+
+esquid:S2095N"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8³¸°·»-
+nsquid:S2095·"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­è¹×8³¸°·»-
+jsquid:S20954"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ş¾şøÿÿÿÿ8©ÿ¯·»-
+nsquid:S2095Õ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­è¹×8³¸°·»-
+|squid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á£™úÿÿÿÿ8Ç®·»-

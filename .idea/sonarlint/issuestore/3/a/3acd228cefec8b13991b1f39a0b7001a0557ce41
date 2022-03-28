@@ -1,0 +1,6 @@
+
+Psquid:S1068
+"-Remove this unused "programId" private field.(ŒŞªüÿÿÿÿ8ûÌÒŒ»-
+nsquid:S1206b"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8³ÍŒ»-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰²ËÈúÿÿÿÿ8„ı«Œ»-
+Nsquid:S2160	"+Override the "equals" method in this class.(Ş†¸éøÿÿÿÿ8€‰Åè½-
